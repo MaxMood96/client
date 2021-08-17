@@ -4,13 +4,17 @@
   "license": "BSD-3-Clause",
   "private": true,
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "bel": "^5.0.0",
-    "morphdom": "^2.3.2"
+    "morphdom": "^2.3.2",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
-    "webpack": "^2.7.0"
-  }
+    "webpack": "^3.11.0"
+  },
+  "snyk": true
 }
