@@ -161,7 +161,7 @@
     "@storybook/addon-storyshots": "5.2.1",
     "@storybook/addons": "5.2.1",
     "@storybook/channels": "5.2.1",
-    "@storybook/react": "5.2.1",
+    "@storybook/react": "6.1.7",
     "@storybook/react-native": "5.2.1",
     "@storybook/react-native-server": "5.2.1",
     "@storybook/theming": "5.2.1",
