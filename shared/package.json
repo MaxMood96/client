@@ -117,7 +117,7 @@
     "react-native-unimodules": "0.7.0-rc.1",
     "react-native-video": "5.0.2",
     "react-native-webview": "11.6.2",
-    "react-navigation-stack": "git://github.com/keybase/stack#danny/marco-animated-background-plus-darkmode",
+    "react-navigation-stack": "2.10.4",
     "react-navigation-tabs": "2.2.0",
     "react-redux": "7.2.0",
     "react-spring": "8.0.27",
