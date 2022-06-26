@@ -1,7 +1,7 @@
 ARG BASE_IMAGE=keybaseio/client:latest
 FROM $BASE_IMAGE AS base
 
-FROM node:12.16.2-buster
+FROM node:erbium-buster
 LABEL maintainer="Keybase <admin@keybase.io>"
 
 RUN apt-get update \
