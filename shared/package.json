@@ -183,7 +183,7 @@
         "babel-plugin-react-native-web": "0.18.9",
         "cross-env": "7.0.3",
         "css-loader": "6.7.1",
-        "electron": "20.0.3",
+        "electron": "20.1.2",
         "electron-packager": "15.5.1",
         "eslint": "8.23.0",
         "eslint-plugin-promise": "6.0.1",
