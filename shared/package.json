@@ -209,7 +209,7 @@
     "msgpack": "keybase/nullModule",
     "net": "keybase/nullModule",
     "null-loader": "4.0.1",
-    "patch-package": "6.5.1",
+    "patch-package": "7.0.1",
     "prettier": "2.8.7",
     "purepack": "keybase/nullModule",
     "react-native-flipper-performance-plugin": "0.3.1",
