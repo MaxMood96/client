@@ -79,7 +79,7 @@
     "@react-native-picker/picker": "2.6.1",
     "@react-navigation/bottom-tabs": "6.5.11",
     "@react-navigation/core": "6.4.10",
-    "@react-navigation/native": "6.1.9",
+    "@react-navigation/native": "7.0.14",
     "@react-navigation/native-stack": "6.9.17",
     "base-64": "1.0.0",
     "classnames": "2.5.1",
@@ -192,12 +192,12 @@
     "react-test-renderer": "18.2.0",
     "rimraf": "5.0.5",
     "style-loader": "3.3.4",
-    "terser-webpack-plugin": "5.3.10",
+    "terser-webpack-plugin": "5.3.11",
     "tls": "keybase/nullModule",
     "typescript": "5.4.2",
     "webpack": "5.89.0",
     "webpack-cli": "5.1.4",
-    "webpack-dev-server": "4.15.1",
+    "webpack-dev-server": "5.2.0",
     "webpack-merge": "5.10.0"
   },
   "resolutions": {
