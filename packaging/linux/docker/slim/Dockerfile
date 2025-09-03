@@ -2,7 +2,7 @@ ARG BASE_IMAGE=keybaseio/client:latest
 
 FROM $BASE_IMAGE AS base
 
-FROM debian:buster-slim
+FROM debian:10.12-slim
 LABEL maintainer="Keybase <admin@keybase.io>"
 
 RUN apt-get update \
