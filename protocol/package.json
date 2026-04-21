@@ -4,7 +4,9 @@
   "description": "An IDL and protocol generator for Keybase components",
   "main": "bin/compile.iced",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,8 @@
     "iced-runtime": "1.0.4",
     "iced-utils": "0.1.27",
     "json5": "2.2.1",
-    "prettier": "2.6.2"
-  }
+    "prettier": "2.6.2",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
